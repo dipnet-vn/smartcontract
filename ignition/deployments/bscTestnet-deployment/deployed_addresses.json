@@ -1,0 +1,9 @@
+{
+  "NFTGramLogicModule#NFTGram": "0xCD5d58bBe31e51e893917d0096F60863C3f65D79",
+  "NFTGramProxyModule#NFTGramProxy": "0xD3A98df09aeAf59F680b971FD4Bd5D857aDf7092",
+  "NFTGramProxyModule#NFTGram": "0xD3A98df09aeAf59F680b971FD4Bd5D857aDf7092",
+  "NFTGramProxyModule#ProxyAdmin": "0xAAB401C6C248a8e94414cB419F20DDa2D40175f3",
+  "DipNetMarketProxyModule#DipNetMarketProxy": "0xCEFEd9b2E5A457cDC2f787dEF47d7b8666450f88",
+  "DipNetMarketProxyModule#DipNetMarket": "0xCEFEd9b2E5A457cDC2f787dEF47d7b8666450f88",
+  "DipNetMarketProxyModule#ProxyAdmin": "0x44358ccfB158769c9B96270c6acA0e6ab0667004"
+}
