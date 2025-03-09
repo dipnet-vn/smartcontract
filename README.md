@@ -2,7 +2,7 @@
 
 ## Overview
 
-The DipNetMarket smart contract, developed by EZCON Inc, facilitates the management of NFT transactions and collections. This marketplace allows users to create collections, list NFTs for sale, and manage transactions securely.
+The DipNetMarket smart contract, facilitates the management of NFT transactions and collections. This marketplace allows users to create collections, list NFTs for sale, and manage transactions securely.
 
 ## Key Features
 
