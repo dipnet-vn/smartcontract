@@ -1,8 +1,8 @@
-# NFTGram Marketplace Smart Contract Documentation
+# DipNetMarket Marketplace Smart Contract Documentation
 
 ## Overview
 
-The NFTGram smart contract, developed by EZCON Inc, facilitates the management of NFT transactions and collections. This marketplace allows users to create collections, list NFTs for sale, and manage transactions securely.
+The DipNetMarket smart contract, developed by EZCON Inc, facilitates the management of NFT transactions and collections. This marketplace allows users to create collections, list NFTs for sale, and manage transactions securely.
 
 ## Key Features
 
@@ -120,6 +120,6 @@ The NFTGram smart contract, developed by EZCON Inc, facilitates the management o
 - **Reentrancy Guard:** Protects against reentrancy attacks.
 - **Pausable Contract:** Allows pausing of contract operations in case of emergencies.
 
-This documentation provides a high-level overview of the NFTGram smart contract's features and functionality, ensuring users and developers understand the key aspects of the marketplace operations and management.
+This documentation provides a high-level overview of the DipNetMarket smart contract's features and functionality, ensuring users and developers understand the key aspects of the marketplace operations and management.
 
 Copyright (C) 2024 EZCON Inc. All Rights Reserved.
